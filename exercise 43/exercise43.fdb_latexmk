@@ -1,11 +1,11 @@
 # Fdb version 3
-["biber exercise43"] 1734880458 "exercise43.bcf" "exercise43.bbl" "exercise43" 1735906523
-  "exercise43.bcf" 1735906523 105936 b396f64e329fe098c80ec0b2997ad3d5 "pdflatex"
+["biber exercise43"] 1734880458 "exercise43.bcf" "exercise43.bbl" "exercise43" 1735907987
+  "exercise43.bcf" 1735907986 105936 b396f64e329fe098c80ec0b2997ad3d5 "pdflatex"
   (generated)
   "exercise43.bbl"
   "exercise43.blg"
-["pdflatex"] 1735906520 "c:/Users/matej/Documents/FJFI/EM1/exercise 43/exercise43.tex" "exercise43.pdf" "exercise43" 1735906523
-  "c:/Users/matej/Documents/FJFI/EM1/exercise 43/exercise43.tex" 1735906519 5007 51bd44881f5e4ab9b79088cc79e5878f ""
+["pdflatex"] 1735907984 "c:/Users/matej/Documents/FJFI/EM1/exercise 43/exercise43.tex" "exercise43.pdf" "exercise43" 1735907987
+  "c:/Users/matej/Documents/FJFI/EM1/exercise 43/exercise43.tex" 1735907983 4874 2b82ffa0325070d9bdf3301ae20b8876 ""
   "c:/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1667755088 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1667751281 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1667751281 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -91,10 +91,10 @@
   "c:/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1667764354 4648419 cd736d89bc726120ec8d74e8e9beb636 ""
   "c:/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1667764538 3063429 afb91302e83c10b1ad4069fc00d38484 ""
   "c:/texlive/2022/texmf.cnf" 1667764323 713 e69b156964470283e0530f5060668171 ""
-  "exercise43.aux" 1735906523 486 e5d476dbbf2ec78066faed36bf9d1327 "pdflatex"
+  "exercise43.aux" 1735907986 486 e5d476dbbf2ec78066faed36bf9d1327 "pdflatex"
   "exercise43.bbl" 0 -1 0 "biber exercise43"
-  "exercise43.run.xml" 1735906523 2264 01e3e523527d64019c181b49d622210a "pdflatex"
-  "exercise43.tex" 1735906519 5007 51bd44881f5e4ab9b79088cc79e5878f ""
+  "exercise43.run.xml" 1735907986 2264 01e3e523527d64019c181b49d622210a "pdflatex"
+  "exercise43.tex" 1735907983 4874 2b82ffa0325070d9bdf3301ae20b8876 ""
   "images//pic.png" 1734944465 13261 a0d64d05f1d7ba7e4528cfcc8a4b049f ""
   (generated)
   "exercise43.aux"
